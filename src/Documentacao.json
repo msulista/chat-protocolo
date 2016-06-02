@@ -1,0 +1,22 @@
+{
+    "name": "marcus.rodrigues"
+    1) Crie uma aplicação distribuída onde uma máquina recebe uma mensagem do usuário (JOptionPane) e repassa para outras 3 máquinas (diferentes). Cada máquina imprime as mensagens recebidas.
+
+
+2) Crie uma aplicação distribuída que realize a comunicação ponto a ponto (diretamente entre duas máquinas). Nessa aplicação a pessoa pode ler e escrever ao mesmo tempo.
+
+
+3) Crie uma aplicação cliente-servidor baseado em pedido-resposta, do qual o servidor aceite múltiplas conexões ao mesmo. Três tipos de pedido do cliente devem ser respondidos pelo servidor de acordo com as especificações abaixo:
+
+a) Pedido: Ping; Resposta: Pong
+
+b) Pedido: 5+10 (qualquer soma); Resposta: 15
+
+c) Pedido: File X; Resposta: Conteúdo do arquivo X.
+
+
+4) Crie uma aplicação de chat (estilo bate-papo) utilizando o modelo cliente-servidor.
+
+
+5) Utilizando ObjectInputStream e ObjectOutputStream, transfira uma lista de clientes (rg, nome e telefone) de uma máquina para a outra.
+}
